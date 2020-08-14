@@ -1,3 +1,0 @@
-#Following library files have to be ignored while uploading in github
-
-node_modules/

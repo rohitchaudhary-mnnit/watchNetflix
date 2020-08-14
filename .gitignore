@@ -1,0 +1,3 @@
+#ignore these library files while uploading in github
+
+node_modules/
